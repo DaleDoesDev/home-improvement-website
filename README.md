@@ -7,4 +7,5 @@ Built with:
 * Javascript with jQuery
 * Bootstrap5 and custom css.
 
-This is the code for the layout that I developed & deployed live at: https://www.bumgardners-home-improvement.com, but with placeholder content and images.
+This is the code for the layout that I developed & deployed live at: 
+https://www.bumgardners-home-improvement.com, but with placeholder content and images.
